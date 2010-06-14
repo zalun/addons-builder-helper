@@ -1,6 +1,9 @@
 {
   "trustedOrigins": [
     "https://builder.addons.mozilla.org/",
-    "https://lm-app-flightdeck01.mozillalabs.com/"
+    "https://lm-app-flightdeck01.mozillalabs.com/",
+	"http://flightdeck.zalewa.info",
+	"http://localhost:8090/",
+	"http://127.0.0.1:8090/"
   ]
 }
